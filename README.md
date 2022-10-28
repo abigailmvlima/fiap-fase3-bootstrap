@@ -1,6 +1,6 @@
-# fiap-fase2-responsivo
+# fiap-fase3-Bootstrap
 
-Capitulo 11 - Fase 2
+Enterprise - Fase 3
 
 Layout no modelo web desktop e tablet
 
