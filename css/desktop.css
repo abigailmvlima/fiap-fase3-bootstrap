@@ -333,7 +333,7 @@ main > .banner-search > .search-reserve > .header {
 }
 
 footer {
-  margin: 0 5% !important;
+  margin: 0 2% !important;
   display: flex;
   justify-content: space-between;
   margin-bottom: 20px;
