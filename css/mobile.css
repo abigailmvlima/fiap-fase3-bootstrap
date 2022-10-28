@@ -4,15 +4,13 @@
   }
 
   header {
-    margin: 0 5% !important;
-    margin-top: 20px !important;
-    margin-bottom: 50px !important;
+    margin: 0 2% !important;
   }
 
   h2 {
-    font-size: 35px;
+    font-size: 30px;
     text-align: center;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
   }
 
   h3 {
@@ -26,7 +24,7 @@
   }
 
   p {
-    font-size: 20px;
+    font-size: 17px;
     padding-bottom: 15px;
   }
 
@@ -86,7 +84,7 @@
 
   .input-search {
     margin-top: 15px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 
   .input-search .input-layout {
@@ -94,17 +92,17 @@
   }
 
   .input-search label {
-    margin: 25px;
+    margin: 10px 5px 5px 20px;
+    height: auto;
   }
 
   .input-search input {
-    font-size: 16px;
+    font-size: 13px;
     line-height: 35px;
   }
 
   .input-search span {
-    margin-bottom: 10px;
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .button-search {
@@ -114,7 +112,7 @@
   .input-search select {
     width: auto;
     font-size: 16px;
-    padding: 5px 5px 0 5px;
+    padding: 5px;
     background-color: #fff;
   }
 
@@ -123,15 +121,16 @@
   }
 
   .button-search button {
-    padding: 25px;
+    padding: 5px;
     border-radius: 15px;
-    margin-top: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
   }
 
   .button-search button span {
     font-size: 30px;
     letter-spacing: 2px;
-    margin: 30px;
+    margin: 15px;
   }
 
   .assessments,
