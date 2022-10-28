@@ -1,23 +1,21 @@
-# fiap-fase2-responsivo
+# fiap-fase3-Bootstrap
 
-Capitulo 11 - Fase 2
+Enterprise - Fase 3
 
 Layout no modelo web desktop e tablet
 
-<img width="879" alt="image" src="https://user-images.githubusercontent.com/6618004/193459198-ef0686d6-7cc7-43bb-aa7f-553cb84130c4.png">
-
-<img width="880" alt="image" src="https://user-images.githubusercontent.com/6618004/193459211-35722527-3996-49bb-acde-095faac09151.png">
+![image](https://user-images.githubusercontent.com/81816418/198719562-8f2589a3-d9ff-4e86-b503-8333e56e5019.png)
+![image](https://user-images.githubusercontent.com/81816418/198719965-4fcee25f-8c8b-4d33-a72e-e4c720ac4bbe.png)
+![image](https://user-images.githubusercontent.com/81816418/198719723-844605d1-c9f9-409f-94ee-7f5849a2ad24.png)
 
 Layout no modelo mobile
 
-![WhatsApp Image 2022-10-02 at 11 26 09](https://user-images.githubusercontent.com/6618004/193459267-e3e839d1-2430-4545-9079-b3b1272eefa9.jpg)
 
-![WhatsApp Image 2022-10-02 at 11 26 10](https://user-images.githubusercontent.com/6618004/193459272-035d9dad-449f-4d45-9c62-f573df41e075.jpg)
+![image](https://user-images.githubusercontent.com/81816418/198724893-187dce49-17fc-4bdf-82bd-15d859be3346.png)
+![image](https://user-images.githubusercontent.com/81816418/198724945-2cd875c0-cc60-4466-9f21-3f2e38212b7b.png)
+![image](https://user-images.githubusercontent.com/81816418/198725049-0f0325fb-ab97-4b43-806d-1667975a74d4.png)
+![image](https://user-images.githubusercontent.com/81816418/198725155-85785e66-e22b-4cf3-850e-2becedfaeaa4.png)
+![image](https://user-images.githubusercontent.com/81816418/198725240-2b9a12a3-cc95-4ffa-92ff-5a6f8eb6e95d.png)
+![image](https://user-images.githubusercontent.com/81816418/198725300-3b3b165e-a1a1-422e-a45c-bee103c9b69e.png)
 
-![WhatsApp Image 2022-10-02 at 11 26 11](https://user-images.githubusercontent.com/6618004/193459277-f4a2cbcf-c4ea-4d61-a801-723c97b7173d.jpg)
 
-![WhatsApp Image 2022-10-02 at 11 26 11](https://user-images.githubusercontent.com/6618004/193459342-115621ec-f03d-47ba-aa1a-cee0d98ee1f6.jpg)
-
-![WhatsApp Image 2022-10-02 at 11 26 12](https://user-images.githubusercontent.com/6618004/193459348-7bd1b16a-d25e-4480-b792-1299318c7b38.jpg)
-
-![WhatsApp Image 2022-10-02 at 11 26 13](https://user-images.githubusercontent.com/6618004/193459355-438101e7-5e52-4fd4-b0a2-26177e2e4ac5.jpg)
