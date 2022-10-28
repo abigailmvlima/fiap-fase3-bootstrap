@@ -10,13 +10,13 @@
   }
 
   h2 {
-    font-size: 40px;
+    font-size: 35px;
     text-align: center;
     padding-bottom: 40px;
   }
 
   h3 {
-    font-size: 30px;
+    font-size: 25px;
     margin-top: 20px;
   }
 
@@ -31,7 +31,7 @@
   }
 
   .text-logo {
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .menu > nav > ul > li {
@@ -39,7 +39,7 @@
   }
 
   .menu > nav > ul > li > a {
-    font-size: 20px;
+    font-size: 16px;
   }
 
   main > .banner-search {
@@ -98,7 +98,7 @@
   }
 
   .input-search input {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 35px;
   }
 
@@ -113,13 +113,13 @@
 
   .input-search select {
     width: auto;
-    font-size: 18px;
+    font-size: 16px;
     padding: 5px 5px 0 5px;
     background-color: #fff;
   }
 
   .input-search select > option {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .button-search button {
