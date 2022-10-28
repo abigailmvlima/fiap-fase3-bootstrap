@@ -39,24 +39,6 @@ h3 {
   padding-bottom: 5px;
 }
 
-h4 {
-  font-size: 18px;
-  color: #1e1e1e;
-  padding-bottom: 5px;
-}
-
-h5 {
-  font-size: 15px;
-  color: #818181;
-  padding-bottom: 5px;
-}
-
-h6 {
-  font-size: 13px;
-  color: #818181;
-  padding-bottom: 5px;
-}
-
 a {
   text-decoration: none;
   color: #000;
@@ -355,9 +337,9 @@ footer {
   display: flex;
   justify-content: space-between;
   margin-bottom: 20px;
-  margin-top: 50px !important;
+  margin-top: 60px !important;
   border-top: 1px solid rgb(188, 188, 188);
-  padding-top: 15px;
+  padding-top: 40px;
   margin-bottom: 30px !important;
 }
 
